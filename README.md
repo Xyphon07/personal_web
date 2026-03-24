@@ -1,2 +1,3 @@
 # protfolio_web
-code for my portfolio website
+code for my personal website
+currently lost intrest to build it
